@@ -1,0 +1,674 @@
+=== LIGA FEMENINA ===
+2025-06-22 00:00 América de Cali W vs Santa Fe W | 1350607 | 15721 | 15730
+2025-06-22 00:00 Junior W vs Orsomarso W | 1350608 | 15726 | 18432
+2025-06-22 00:00 Real San Andrés W vs Alianza W | 1350609 | 15720 | 22941
+2025-06-22 00:00 Independiente Medellín W vs Deportivo Cali W | 1350610 | 15725 | 15723
+2025-06-22 00:00 Deportivo Pasto W vs Atlético Bucaramanga W | 1350611 | 15724 | 15718
+2025-06-22 00:00 Internacional Palmira vs La Equidad W | 1350612 | 22940 | 15727
+2025-06-22 00:00 Atlético Nacional W vs Fortaleza | 1350613 | 15722 | 15719
+2025-06-22 00:00 Millonarios W vs Once Caldas W | 1350629 | 15729 | 25713
+
+=== USL W LEAGUE ===
+2025-06-22 00:00 Erie Sports Center vs Cleveland Force W | 1363261 | 25843 | 23941
+2025-06-22 00:00 Brevard Riptide vs Kings Hammer Sun City | 1363363 | 23892 | 25847
+2025-06-22 01:00 Manhattan W vs AC Connecticut W | 1363172 | 23950 | 23928
+2025-06-22 01:00 Eagle FC vs Lancaster Inferno | 1363173 | 23899 | 24134
+2025-06-22 01:00 Detroit City W vs Ann Arbor W | 1363262 | 23943 | 23930
+2025-06-22 01:00 Kings Hammer W vs Dayton Dutch Lions W | 1363263 | 23947 | 23880
+2025-06-22 01:00 Virginia Beach United W vs Charlottesville Blues W | 1363501 | 25865 | 23936
+2025-06-22 01:00 Kalamazoo FC W vs Union Macomb W | 1363535 | 23946 | 25863
+2025-06-22 01:30 Tormenta W vs Wake W | 1363174 | 23964 | 23967
+2025-06-22 01:30 SC United Bantams W vs NC Courage II | 1363175 | 23959 | 23911
+2025-06-22 02:00 RKC Third Coast vs Rochester W | 1363264 | 23919 | 23958
+2025-06-22 02:00 Bigfoot vs West Seattle Rhodies | 1363455 | 25841 | 25856
+2025-06-22 02:00 AHFC Royals W vs Lonestar II | 1363549 | 25857 | 23907
+2025-06-22 03:00 Colorado Storm vs Albion Colorado W | 1363456 | 23898 | 23929
+2025-06-22 03:30 California Storm II vs Pleasanton Rage | 1363457 | 23893 | 23918
+2025-06-22 04:30 Capo W vs Sta Clarita Blue Heat | 1368324 | 25935 | 25929
+2025-06-22 23:00 Minnesota Aurora vs River Light W | 1363265 | 23910 | 23957
+2025-06-22 23:00 Salmon Bay vs Olympia | 1363458 | 25853 | 23915
+
+=== NPSL ===
+2025-06-22 00:00 Electric City Shock vs Hershey | 1364386 | 23984 | 24022
+2025-06-22 00:00 Erie Commodores vs Ambassadors Ohio | 1364485 | 9020 | 25870
+2025-06-22 00:00 SI Guardians vs Milwaukee Torrent | 1364486 | 24009 | 24024
+2025-06-22 00:00 FC Pride vs Wisconsin Conquerors | 1366634 | 25903 | 24019
+2025-06-22 01:00 Hickory vs 865 Alliance | 1364276 | 23993 | 24020
+2025-06-22 01:00 Burlington United vs Bristol Rhythm | 1364277 | 25873 | 23974
+2025-06-22 01:00 Port City NC vs Greenville United | 1364278 | 24027 | 23991
+2025-06-22 01:00 Jackson Lions vs WC Predators | 1364387 | 23994 | 24017
+2025-06-22 01:00 PDA vs Philadelphia Union III | 1364388 | 25879 | 24008
+2025-06-22 01:00 Virginia Beach City vs District Elite | 1364389 | 13192 | 25875
+2025-06-22 01:00 DMV Elite vs Alexandria Reds | 1364390 | 23980 | 24021
+2025-06-22 01:00 Grove Soccer United vs Ristozi | 1364391 | 23992 | 25881
+2025-06-22 01:00 New York Shockers vs American SC New York | 1364392 | 24025 | 25871
+2025-06-22 01:00 Cleveland SC vs Syracuse FC | 1364487 | 10063 | 24013
+2025-06-22 01:00 El Farolito vs Real San Jose | 1364545 | 9019 | 25880
+2025-06-22 01:00 Naples United vs Club De Lyon | 1371271 | 10070 | 21003
+2025-06-22 01:00 Global Soccer Pathways vs Miami Dutch Lions | 1371272 | 23990 | 23998
+2025-06-22 01:00 Jacksonville Armada II vs FC Florida | 1371288 | 9082 | 26021
+2025-06-22 01:30 Charlottetowne Hops vs Appalachian | 1364279 | 23978 | 20961
+2025-06-22 02:00 Brownsville vs Fort Worth Vaqueros | 1364280 | 23975 | 9047
+2025-06-22 02:00 Oklahoma United vs CF10 Houston | 1364281 | 25877 | 23976
+2025-06-22 02:00 Des Moines United vs Minnesota Blizzard | 1364488 | 23982 | 24000
+2025-06-22 02:00 Duluth vs Sioux Falls Thunder | 1364489 | 9018 | 24010
+2025-06-22 04:00 Sacramento Gold vs California Odyssey | 1364546 | 9107 | 23977
+2025-06-22 04:00 Cruizers vs Oakland Stompers | 1364547 | 25874 | 17074
+2025-06-22 22:00 Hartford City vs Osner’s | 1364393 | 18456 | 25878
+2025-06-22 23:30 AV Rough Diamonds vs FC Frederick | 1364394 | 23969 | 23985
+
+=== USL LEAGUE TWO ===
+2025-06-22 00:00 New England FC vs Seacoast United Phantoms | 1368559 | 26064 | 4082
+2025-06-22 00:00 Vermont Green vs AC Connecticut | 1368560 | 18912 | 4031
+2025-06-22 00:00 Monterey Bay II vs Almaden | 1369162 | 21284 | 23109
+2025-06-22 00:00 SF Glens vs Marin | 1369163 | 4077 | 18899
+2025-06-22 00:00 Colorado Storm vs Albion Colorado | 1369407 | 25954 | 23108
+2025-06-22 01:00 Hudson Valley Hammers vs Ironbound | 1368561 | 18897 | 21283
+2025-06-22 01:00 Black Rock vs Boston City | 1368562 | 4034 | 9071
+2025-06-22 01:00 Tobacco Road vs Wake | 1368563 | 4089 | 4097
+2025-06-22 01:00 Reading United vs West Chester United II | 1368564 | 4075 | 18913
+2025-06-22 01:00 Lionsbridge vs Virginia Beach United | 1368565 | 4061 | 4095
+2025-06-22 01:00 FC Miami City vs Fort Lauderdale United | 1368797 | 4051 | 25939
+2025-06-22 01:00 Brevard vs Inter Gainesville | 1368798 | 21281 | 23119
+2025-06-22 01:00 Hattiesburg vs McKinney Chupacabras | 1368803 | 23117 | 25943
+2025-06-22 01:00 Oakland County vs Midwest United | 1368995 | 10100 | 18901
+2025-06-22 01:00 Fort Wayne vs West Virginia Alliance | 1368996 | 16679 | 4098
+2025-06-22 01:00 The Villages vs Sporting JAX | 1369353 | 4087 | 25959
+2025-06-22 01:30 Charlotte Independence 2 vs Charlotte Eagles | 1368566 | 10096 | 4039
+2025-06-22 01:30 SC United Bantams vs North Carolina II | 1368567 | 4076 | 4067
+2025-06-22 01:30 Charlottesville Blues vs Christos | 1368568 | 23114 | 9041
+2025-06-22 01:30 Patuxent vs Annapolis Blues | 1368570 | 18907 | 23971
+2025-06-22 01:30 Asheville City vs Dothan United | 1368799 | 10094 | 23116
+2025-06-22 01:30 Athens United vs Southern Soccer Academy | 1368800 | 23110 | 10103
+2025-06-22 01:30 Miami AC vs Pinellas County | 1368801 | 18900 | 21285
+2025-06-22 01:30 Capo II vs Coachella | 1369166 | 23113 | 23115
+2025-06-22 01:30 Sarasota Paradise vs Kings Hammer Sun City | 1369354 | 21289 | 25956
+2025-06-22 02:00 Westchester Flames vs Staten Island Athletic | 1368569 | 4099 | 23122
+2025-06-22 02:00 Corpus Christi vs Laredo Heat | 1368802 | 4043 | 9028
+2025-06-22 02:00 Little Rock Rangers vs Louisiana Krewe | 1368804 | 9029 | 10067
+2025-06-22 02:00 Mississippi Brilla vs Denton Diablos | 1368805 | 4064 | 10066
+2025-06-22 02:00 Montgomery United vs Apotheos | 1368806 | 25944 | 23216
+2025-06-22 02:00 Santafé Wanderers vs Des Moines Menace | 1368997 | 25947 | 4047
+2025-06-22 02:00 St. Louis Ambush vs Sunflower State | 1368998 | 25950 | 24029
+2025-06-22 02:00 Snohomish United vs Bangers | 1369165 | 25948 | 25936
+2025-06-22 02:30 Hill Country Lobos vs Houston Sur | 1368807 | 23118 | 18896
+2025-06-22 02:30 Tennessee vs Columbus United | 1368808 | 18911 | 23979
+2025-06-22 03:00 Oly Town vs Midlakes United | 1369167 | 18904 | 23120
+2025-06-22 04:00 Redlands vs Tucson | 1369168 | 21287 | 4109
+2025-06-22 04:00 Utah United vs Colorado ISA | 1369169 | 23127 | 18891
+2025-06-22 21:00 FC Motown II vs Cedar Stars Rush | 1368571 | 18894 | 4038
+2025-06-22 21:00 Chicago Dutch Lions vs St. Croix | 1368999 | 18889 | 18910
+2025-06-22 21:00 Minneapolis City vs River Light | 1369000 | 10069 | 23121
+2025-06-22 23:00 West Seattle Junction vs Tacoma Stars | 1369170 | 23128 | 23124
+2025-06-22 23:00 Kings Hammer Columbus vs Lexington II | 1369374 | 25941 | 25957
+2025-06-22 23:30 Project 51O vs San Juan SC | 1369408 | 18908 | 25958
+
+=== WPSL ===
+2025-06-22 00:00 Portland Thorns II vs Spokane SC Shadow | 1369733 | 23830 | 23860
+2025-06-22 00:00 Niagara 1812 vs Cleveland Internationals | 1370082 | 23821 | 25979
+2025-06-22 00:00 BC United NY vs Erie | 1370083 | 23755 | 23776
+2025-06-22 00:00 FC Birmingham vs 865 Alliance | 1370226 | 23777 | 23747
+2025-06-22 00:00 Monmouth W vs Penn Fusion SA | 1370269 | 26005 | 23827
+2025-06-22 01:00 SUSA W vs Force New York | 1370084 | 23885 | 23781
+2025-06-22 01:00 Port City NC vs Carolina | 1370227 | 23829 | 23894
+2025-06-22 01:00 Soda City W vs North Carolina W | 1370295 | 26008 | 26006
+2025-06-22 02:00 Westside Metros vs Portland Thorns II | 1369734 | 23873 | 23830
+2025-06-22 02:00 PSD Academy vs Colorado Blizzard | 1369909 | 23826 | 23766
+2025-06-22 02:00 SouthStar vs Corinthians W | 1369910 | 23858 | 1798
+2025-06-22 02:00 Minnesota Dutch Lions vs Mankato | 1369911 | 25992 | 23805
+2025-06-22 02:00 Oklahoma City vs Wichita W | 1369912 | 23824 | 23888
+2025-06-22 02:00 Milwaukee Torrent vs Chicago House W | 1369913 | 23809 | 23877
+2025-06-22 02:00 Nashville Rhythm vs Jackson Ignite | 1370228 | 23814 | 25986
+2025-06-22 02:15 Baton Rouge United vs Hattiesburg W | 1370296 | 25978 | 26004
+2025-06-22 02:30 Missouri Reign vs Peoria City | 1369914 | 23812 | 25996
+2025-06-22 03:00 Utah Avalanche W vs La Roca | 1369915 | 23887 | 23801
+2025-06-22 04:00 Royals AZ vs El Paso Surf | 1369735 | 23839 | 23775
+2025-06-22 04:00 Tucson W vs Desert Dreams | 1369736 | 23886 | 25981
+2025-06-22 04:00 Fresno Freeze vs San Francisco Elite | 1369737 | 23782 | 23848
+2025-06-22 04:00 San Ramon vs Iron Rose | 1369738 | 23850 | 23793
+2025-06-22 15:00 Florida Premier vs Gulf Coast Dutch Lions | 1370229 | 25982 | 23788
+2025-06-22 17:00 SC del Sol vs PHX Heat | 1369739 | 23840 | 25994
+2025-06-22 18:00 New York Dutch Lions vs Force New York | 1370085 | 23819 | 23781
+2025-06-22 21:00 New York Athletic vs SUSA W | 1370086 | 23818 | 23885
+2025-06-22 21:00 Seminole Ice vs PrimeTime | 1370230 | 23852 | 25997
+2025-06-22 22:00 Minnesota Thunder vs MN Bliss | 1369916 | 23810 | 25989
+2025-06-22 22:00 Green Bay Glory vs Bavarian United | 1369917 | 23786 | 23891
+2025-06-22 22:00 Merrimack Valley Hawks vs Sporting CT | 1370087 | 23808 | 26000
+2025-06-22 23:00 Junction vs FC Pride | 1369918 | 23795 | 23779
+2025-06-22 23:00 Clarkstown vs Brooklyn City | 1370088 | 23763 | 23758
+2025-06-22 23:00 Columbus Eagles vs Greater Toledo | 1370089 | 23768 | 23785
+2025-06-22 23:00 Alexandria Reds vs McLean | 1370231 | 23750 | 23807
+2025-06-22 23:00 Shreveport United vs Mississippi Blues | 1370232 | 25999 | 25993
+
+=== MATOGROSSENSE 2 ===
+2025-06-22 00:00 Sorriso vs Santa Cruz MT | 1373989 | 26049 | 23566
+2025-06-22 00:00 Chapada vs Juara | 1373990 | 26048 | 23563
+2025-06-22 00:00 Ação vs Dom Bosco | 1373991 | 15615 | 1226
+2025-06-22 00:00 Cacerense vs Operário MT | 1373992 | 20716 | 10688
+2025-06-22 21:00 Ação vs Cacerense | 1373988 | 15615 | 20716
+2025-06-22 22:00 Chapada vs Atlético Matogrossense | 1373978 | 26048 | 23560
+2025-06-22 22:00 Campo Novo vs Santa Cruz MT | 1378739 | 23561 | 23566
+
+=== COPA PAULISTA ===
+2025-06-22 00:00 Noroeste vs Grêmio Prudente | 1374584 | 10037 | 20713
+2025-06-22 15:00 Portuguesa Santista vs Oeste | 1374593 | 10023 | 143
+
+=== PREMIER DIVISION ===
+2025-06-22 00:00 SAB Spartans vs Camerhogne | 1376995 | 23370 | 23365
+2025-06-22 22:00 St. David’s vs Hurricanes | 1376997 | 26063 | 23368
+
+=== PRIMERA NACIONAL ===
+2025-06-22 00:10 Colegiales vs All Boys | 1331306 | 8377 | 464
+2025-06-22 18:10 Atlanta vs Alvarado | 1331307 | 1948 | 1962
+2025-06-22 18:10 San Telmo vs Chacarita Juniors | 1331322 | 1932 | 447
+2025-06-22 20:00 Los Andes vs Arsenal Sarandi | 1331305 | 483 | 459
+2025-06-22 20:10 Ferro Carril Oeste vs San Martin Tucuman | 1331312 | 470 | 485
+2025-06-22 20:30 Almirante Brown vs CA Estudiantes | 1331317 | 8375 | 1936
+2025-06-22 20:30 Gimnasia M. vs Talleres Remedios | 1331319 | 1066 | 1927
+2025-06-22 20:30 Agropecuario vs Defensores De Belgrano | 1331321 | 462 | 1067
+2025-06-22 21:00 Patronato vs Club Atlético Güemes | 1331313 | 444 | 3969
+2025-06-22 21:00 Gimnasia Jujuy vs Estudiantes de Rio Cuarto | 1331320 | 479 | 2424
+2025-06-22 22:00 Atletico Mitre vs Temperley | 1331315 | 466 | 454
+2025-06-22 22:00 Central Norte vs Deportivo Moron | 1331318 | 1951 | 469
+
+=== USL LEAGUE ONE ===
+2025-06-22 01:00 Richmond Kickers vs Spokane Velocity | 1326833 | 4024 | 22785
+2025-06-22 01:00 One Knoxville vs Tormenta | 1326834 | 18905 | 4108
+2025-06-22 01:00 Greenville Triumph vs Chattanooga Red Wolves | 1326835 | 9026 | 9016
+2025-06-22 02:30 Texoma vs Charlotte Independence | 1326836 | 25487 | 3991
+2025-06-22 05:00 Alta vs Portland Hearts of Pine | 1326837 | 25838 | 25486
+
+=== USL CHAMPIONSHIP ===
+2025-06-22 01:00 Indy Eleven vs Las Vegas Lights | 1327123 | 3996 | 3998
+2025-06-22 01:00 Pittsburgh Riverhounds vs Tampa Bay Rowdies | 1327127 | 4010 | 4021
+2025-06-22 01:00 Rhode Island vs Sacramento Republic | 1327128 | 22855 | 4015
+2025-06-22 01:30 Charleston Battery vs Phoenix Rising | 1327121 | 3990 | 4009
+2025-06-22 02:00 Birmingham Legion vs Oakland Roots | 1327120 | 3989 | 10874
+2025-06-22 03:00 New Mexico United vs San Antonio | 1327126 | 4003 | 4017
+2025-06-22 04:00 Monterey Bay vs El Paso Locomotive | 1327125 | 18375 | 3993
+
+=== MLS NEXT PRO ===
+2025-06-22 01:00 Chattanooga vs FC Cincinnati II | 1345471 | 9073 | 18812
+2025-06-22 01:00 Whitecaps II vs North Texas | 1345472 | 4028 | 10282
+2025-06-22 01:30 Carolina Core vs New York RB II | 1345473 | 23063 | 4004
+
+=== EERSTE DIVISIE ===
+2025-06-22 01:00 PVV vs Flora | 1364828 | 12217 | 23429
+2025-06-22 22:30 Inter Moengotapoe vs FC Inter Wanica | 1364827 | 10966 | 12214
+
+=== PACIFIC COAST SOCCER LEAGUE ===
+2025-06-22 01:00 WIA vs Blues | 1370813 | 18920 | 23430
+2025-06-22 04:00 Kamloops Rivers II vs Khalsa | 1370814 | 18917 | 3556
+2025-06-22 21:30 Mid Isle Mariners vs Blues | 1370815 | 3557 | 23430
+2025-06-22 23:00 Victoria United vs AFA | 1370816 | 18919 | 21234
+
+=== CONCACAF GOLD CUP ===
+2025-06-22 01:00 Curaçao vs Canada | 1371370 | 5530 | 5529
+2025-06-22 04:00 Honduras vs El Salvador | 1371371 | 4672 | 5159
+
+=== SEGUNDA DIVISIÓN ===
+2025-06-22 01:00 Oriental vs Uruguay Montevideo | 1380373 | 2376 | 16740
+2025-06-22 18:30 D. Melipilla vs Santiago City | 1352650 | 2339 | 21117
+2025-06-22 20:00 Bentín Tacna Heroica vs Santos | 1362282 | 22462 | 4226
+2025-06-22 20:00 U. San Martin vs UCV Moquegua | 1362284 | 2549 | 22489
+2025-06-22 20:00 Deportivo Maldonado vs Albion FC | 1380375 | 2370 | 2378
+2025-06-22 20:00 Tacuarembo vs Artigas | 1380376 | 2374 | 19326
+2025-06-22 21:00 General Velásquez vs San Antonio Unido | 1352647 | 5639 | 5645
+2025-06-22 21:00 Bolívar vs Dinamo de Puerto La Cruz | 1378887 | 21231 | 2858
+2025-06-22 21:00 Colón vs Fenix | 1380377 | 15628 | 2357
+2025-06-22 21:30 Petare FC vs Mineros de Guyana | 1378888 | 2853 | 2824
+2025-06-22 21:30 Monagas II vs Aragua FC | 1378889 | 11371 | 2817
+2025-06-22 22:00 Héroes de Falcón vs Puerto Cabello II | 1378890 | 18807 | 25902
+2025-06-22 22:00 Urena SC vs Atletico el Vigia FC | 1378891 | 2816 | 2832
+2025-06-22 22:15 Union Comercio vs Academia Cantolao | 1362281 | 2552 | 2543
+
+=== NWSL WOMEN ===
+2025-06-22 01:30 NJ/NY Gotham FC W vs Bay FC | 1339333 | 3003 | 22943
+2025-06-22 01:30 North Carolina Courage W vs Houston Dash W | 1339334 | 2999 | 2998
+2025-06-22 04:00 Portland Thorns W vs Chicago Red Stars W | 1339335 | 3001 | 2997
+
+=== SERIE B ===
+2025-06-22 01:30 Ferroviária vs CRB | 1353388 | 7826 | 146
+2025-06-22 20:30 Salernitana vs Sampdoria | 1375441 | 514 | 498
+2025-06-22 21:00 Coritiba vs Cuiaba | 1353380 | 147 | 1193
+2025-06-22 21:00 Atletico Goianiense vs Volta Redonda | 1353382 | 144 | 7814
+2025-06-22 23:00 Amazonas vs Vila Nova | 1353386 | 10862 | 142
+
+=== LIGA PRO ===
+2025-06-22 02:00 Macara vs Cuniburo | 1338428 | 1155 | 21103
+2025-06-22 19:00 LDU de Quito vs Independiente del Valle | 1338427 | 1158 | 1153
+2025-06-22 22:00 Aucas vs Deportivo Cuenca | 1338432 | 1156 | 1154
+
+=== PRIMERA DIVISIÓN ===
+2025-06-22 02:00 Deportivo Garcilaso vs Ayacucho FC | 1340423 | 20960 | 2542
+2025-06-22 02:00 Independiente Petrolero vs Nacional Potosí | 1378253 | 15702 | 3706
+2025-06-22 18:30 D. La Serena vs Deportes Limache | 1339122 | 2341 | 16730
+2025-06-22 20:00 Sport Boys vs Deportivo Binacional | 1340427 | 2544 | 2550
+2025-06-22 21:00 A. Italiano vs Colo Colo | 1339118 | 2329 | 2315
+2025-06-22 21:00 Bolívar vs The Strongest | 1378254 | 3702 | 3711
+2025-06-22 22:15 Comerciantes Unidos vs Juan Pablo II College | 1340424 | 2558 | 22479
+2025-06-22 23:15 Blooming vs Oriente Petrolero | 1378255 | 3701 | 3707
+2025-06-22 23:30 Cobresal vs Nublense | 1339125 | 2331 | 2337
+
+=== PRIMERA B ===
+2025-06-22 02:00 San Luis vs Santiago Morning | 1348349 | 2322 | 2335
+2025-06-22 18:30 Deportes Santa Cruz vs Antofagasta | 1348346 | 2346 | 2327
+2025-06-22 21:00 Universidad de Concepcion vs Deportes Copiapo | 1348347 | 2324 | 2343
+
+=== DIVISION DI HONOR ===
+2025-06-22 02:00 Britannia vs Dakota | 1378928 | 8234 | 8237
+
+=== LEAGUE 1 ONTARIO ===
+2025-06-22 02:30 FC London vs Scrosoppi | 1362636 | 19102 | 19108
+2025-06-22 20:00 St. Catharines Wolves vs Woodbridge Strikers | 1362637 | 19111 | 19114
+
+=== NORTHERN NSW NPL ===
+2025-06-22 06:00 Edgeworth Eagles vs Adamstown Rosebuds | 1322779 | 10204 | 10201
+2025-06-22 08:30 Hamilton Olympic vs Maitland | 1322777 | 10205 | 10208
+
+=== NNSW LEAGUE 1 ===
+2025-06-22 06:00 Kahibah vs West Wallsend | 1332217 | 23502 | 11195
+2025-06-22 08:30 Toronto Awaba Stags vs Thornton Redbacks | 1332218 | 23505 | 23504
+
+=== JAPAN FOOTBALL LEAGUE ===
+2025-06-22 06:00 Suzuka Unlimited vs Verspah Oita | 1351680 | 10408 | 7151
+2025-06-22 08:00 Grulla Morioka vs YSCC | 1351681 | 4321 | 4327
+2025-06-22 08:00 Urayasu vs Honda | 1351682 | 7149 | 7123
+2025-06-22 08:00 Okinawa SV vs Veertien Mie | 1351683 | 7137 | 7150
+2025-06-22 08:00 Tokyo Musashino City vs Biwako Shiga | 1351684 | 10410 | 7117
+
+=== J2 LEAGUE ===
+2025-06-22 06:35 Roasso Kumamoto vs V-varen Nagasaki | 1324711 | 314 | 285
+2025-06-22 07:00 Blaublitz Akita vs Montedio Yamagata | 1324703 | 4315 | 312
+2025-06-22 11:00 Vegalta Sendai vs Ventforet Kofu | 1324702 | 286 | 308
+
+=== VICTORIA NPL ===
+2025-06-22 07:00 Preston Lions vs Avondale | 1319200 | 19705 | 3798
+2025-06-22 09:00 South Melbourne vs Dandenong Thunder | 1319201 | 3811 | 3801
+
+=== QUEENSLAND NPL ===
+2025-06-22 07:00 Gold Coast United vs Olympic | 1321633 | 10216 | 10220
+2025-06-22 07:00 Lions vs SC Wanderers | 1321634 | 10217 | 10223
+2025-06-22 09:00 St George Willawong vs WDSC Wolves | 1321567 | 9993 | 11184
+
+=== J3 LEAGUE ===
+2025-06-22 07:00 Vanraure Hachinohe vs Thespakusatsu Gunma | 1325052 | 4326 | 756
+2025-06-22 08:00 Osaka vs Fukushima United | 1325057 | 7138 | 4318
+
+=== NEW SOUTH WALES NPL ===
+2025-06-22 07:00 Central Coast II vs Sydney United | 1330690 | 16772 | 3776
+2025-06-22 07:00 Blacktown City vs St George City FA | 1330691 | 3765 | 16778
+
+=== CAPITAL TERRITORY NPL ===
+2025-06-22 07:00 Tuggeranong United vs Yoogali CT | 1361419 | 1447 | 22866
+2025-06-22 07:00 Gungahlin United vs Cooma Tigers FC | 1361420 | 1456 | 1452
+
+=== QUEENSLAND PREMIER LEAGUE ===
+2025-06-22 07:30 SWQ Thunder vs Brisbane Strikers | 1322227 | 11196 | 10213
+
+=== BRISBANE PREMIER LEAGUE ===
+2025-06-22 08:00 Springfield United vs Virginia United | 1322378 | 22921 | 9036
+
+=== SOUTH AUSTRALIA STATE LEAGUE 1 ===
+2025-06-22 09:00 West Adelaide vs Adelaide Cobras | 1323038 | 3796 | 16763
+
+=== LEAGUE ONE ===
+2025-06-22 09:00 Yanbian Longding vs Guangxi Baoyun | 1358112 | 17271 | 5657
+2025-06-22 13:00 Suzhou Dongwu vs Shenzhen Juniors | 1358113 | 5688 | 23265
+2025-06-22 13:00 Shanghai Jiading vs Dongguan United | 1358114 | 5682 | 17263
+2025-06-22 13:30 Nanjing City vs Qingdao Red Lions | 1358115 | 16619 | 5679
+
+=== LEAGUE TWO ===
+2025-06-22 10:00 Wuxi Wugou vs Shandong Taishan II | 1362496 | 17269 | 23288
+2025-06-22 10:00 Tai'an Tiankuang vs Nantong Haimen Codion | 1362497 | 19321 | 19319
+2025-06-22 10:30 Guangzhou Dandelion vs Guangdong Mingtu | 1362498 | 25774 | 25773
+2025-06-22 13:30 Yichun Grand Tiger vs Wuhan Three Towns II | 1362494 | 17272 | 25840
+2025-06-22 13:30 Langfang Glory City vs Xi'an Ronghai | 1362499 | 23270 | 20674
+2025-06-22 13:30 Guangxi Lanhang vs Guizhou Zhucheng | 1362500 | 21264 | 25775
+
+=== TERCERA DIVISIÓN RFEF - PROMOTION - PLAY-OFFS ===
+2025-06-22 10:00 Rayo Vallecano II vs Varea | 1378817 | 9715 | 9873
+2025-06-22 12:00 Cayón vs Socuéllamos | 1378818 | 15339 | 9414
+2025-06-22 12:00 Atlético Monzón vs Porreres | 1378820 | 9878 | 24580
+2025-06-22 13:00 UD San Fernando vs Girona II | 1378819 | 9804 | 15343
+2025-06-22 18:00 Lealtad vs Llerenense | 1378821 | 9396 | 9833
+2025-06-22 19:00 Sarriana vs Atlético Pulpileño | 1378822 | 22130 | 9808
+2025-06-22 20:00 Real Jaén vs Atlético Central | 1378823 | 5274 | 24723
+
+=== PREMIER LEAGUE ===
+2025-06-22 10:15 Khovd vs Khoromkhon | 1378380 | 18104 | 17273
+2025-06-22 12:00 Bars vs Abdish-Ata | 1376801 | 25765 | 12234
+2025-06-22 13:15 Erchim vs Deren | 1378381 | 8027 | 16185
+2025-06-22 13:15 Bayanzürkh Sporting vs Falcons | 1378382 | 22066 | 16186
+2025-06-22 14:00 Ethiopia Bunna vs Ethiopia Nigd Bank | 1348088 | 4116 | 4130
+2025-06-22 14:00 Kaisar vs Ulytau | 1351990 | 4562 | 21010
+2025-06-22 14:00 Transport United vs Tsirang | 1369292 | 5593 | 21277
+2025-06-22 16:00 Kara-Balta vs Talant | 1376800 | 12238 | 18731
+2025-06-22 16:00 Muras United vs OshMU Aldier | 1376803 | 21167 | 21168
+2025-06-22 17:00 Kedus Giorgis vs Mekelakeya | 1348095 | 4119 | 4120
+2025-06-22 17:00 Aktobe vs FC Astana | 1351910 | 4563 | 562
+2025-06-22 17:30 Alittihad Misurata vs Al-Ittihad | 1375734 | 12433 | 8053
+2025-06-22 17:30 Olympic Azzaweya vs Asswehly | 1375735 | 12440 | 12436
+2025-06-22 17:30 Al-Madina vs Al Ahli Tripoli | 1375736 | 12430 | 12424
+
+=== J1 LEAGUE ===
+2025-06-22 11:00 Yokohama FC vs Sanfrecce Hiroshima | 1324156 | 307 | 282
+2025-06-22 11:30 Gamba Osaka vs FC Tokyo | 1324158 | 293 | 292
+
+=== 3. DIVISION - GIRONE 1 ===
+2025-06-22 12:00 Bærum vs Tromsø II | 1328823 | 6974 | 16232
+2025-06-22 12:00 Ullern vs Gamle Oslo | 1328827 | 7042 | 18924
+2025-06-22 15:30 Skjervøy vs Alta II | 1328824 | 7024 | 25497
+
+=== ELITETTAN ===
+2025-06-22 12:00 Örebro Söder W vs Umeå | 1329913 | 16028 | 11081
+2025-06-22 16:00 Elfsborg vs Sunnanå | 1329909 | 21693 | 19018
+
+=== K LEAGUE 2 ===
+2025-06-22 12:00 Jeonnam Dragons vs Gimpo Citizen | 1337668 | 2760 | 7078
+2025-06-22 12:00 Busan I Park vs Cheongju | 1337669 | 2752 | 7061
+2025-06-22 12:00 Gyeongnam FC vs Suwon Bluewings | 1337670 | 2751 | 2765
+
+=== K LEAGUE 1 ===
+2025-06-22 12:00 Gimcheon Sangmu FC vs FC Anyang | 1340818 | 2768 | 2748
+2025-06-22 12:00 Gwangju FC vs Daejeon Citizen | 1340820 | 2759 | 2750
+
+=== K3 LEAGUE ===
+2025-06-22 12:00 Gangneung City vs Siheung Citizen | 1352186 | 7075 | 7105
+2025-06-22 12:00 Yeoju Sejong vs Gyeongju HNP | 1352187 | 7112 | 7083
+2025-06-22 12:00 Daejeon Korail vs Yangpyeong | 1352188 | 7068 | 7111
+
+=== V.LEAGUE 1 ===
+2025-06-22 12:00 Công An Nhân Dân vs Hai Phong | 1355235 | 16400 | 3671
+2025-06-22 12:00 Hoang Anh Gia Lai vs Quang Nam | 1355236 | 3673 | 3675
+2025-06-22 12:00 Binh Duong vs Thanh Hóa | 1355237 | 3668 | 3680
+2025-06-22 12:00 Nam Dinh vs Hồng Lĩnh Hà Tĩnh | 1355238 | 3674 | 11134
+2025-06-22 12:00 Binh Dinh vs Ha Noi | 1355239 | 9160 | 3670
+2025-06-22 12:00 Viettel vs Ho Chi Minh City | 1355240 | 3681 | 3672
+2025-06-22 12:00 Da Nang vs Song Lam Nghe An | 1355241 | 3669 | 3678
+
+=== 1. DIVISION WOMEN ===
+2025-06-22 12:00 KIL / Hemne W vs Start W | 1356302 | 18987 | 25762
+2025-06-22 15:00 TIL 2020 W vs HamKam | 1356303 | 18989 | 25759
+2025-06-22 17:00 Fortuna Ålesund W vs Molde W | 1356304 | 18985 | 25761
+
+=== FA CUP ===
+2025-06-22 12:00 SHANGHAI SIPG vs Shanghai Shenhua | 1376790 | 836 | 833
+2025-06-22 12:00 Dalian Huayi vs Qingdao Youth Island | 1376794 | 5652 | 17265
+2025-06-22 13:30 Henan Jianye vs Hangzhou Greentown | 1376791 | 840 | 848
+
+=== PRIMEIRA DIVISÃO ===
+2025-06-22 12:00 Benfica vs Shao Jiang | 1376871 | 21201 | 25716
+2025-06-22 14:00 Cheng Fung vs Universidade de Macau | 1376872 | 21195 | 23062
+
+=== CUP ===
+2025-06-22 12:00 Riga Mariners vs Valmiera / BSS | 1378661 | 25785 | 4153
+2025-06-22 21:00 Moghreb Tetouan vs Renaissance Berkane | 1378927 | 965 | 962
+
+=== ELITE TWO ===
+2025-06-22 12:30 Union Abong-Mbang vs Yafoot | 1378922 | 25430 | 5558
+2025-06-22 14:30 Eding Sport vs Aigle Royal | 1378917 | 5403 | 5556
+2025-06-22 14:30 Foncha ST vs Atlantic | 1378918 | 16527 | 25429
+2025-06-22 14:30 ISOHSA vs APEJES Academy | 1378921 | 22589 | 5398
+2025-06-22 16:30 Unisport Bafang vs Bafmeng United | 1378916 | 5414 | 22588
+2025-06-22 16:30 Tonnerre vs Avion Academy | 1378919 | 10153 | 5399
+2025-06-22 16:30 Racing vs FAP | 1378920 | 5559 | 16525
+
+=== 3. DIVISION - GIRONE 3 ===
+2025-06-22 13:00 Lillestrøm II vs Skedsmo | 1329186 | 16207 | 19711
+2025-06-22 14:00 Skjetten vs Kongsvinger II | 1329190 | 7025 | 16206
+2025-06-22 14:00 Gjøvik-Lyn vs Ullensaker / Kisa II | 1329191 | 6992 | 16210
+
+=== 2. DIVISION - GROUP 1 ===
+2025-06-22 13:00 Notodden vs Sandnes ULF | 1343351 | 2161 | 2146
+2025-06-22 14:30 jerv vs Brann II | 1343353 | 2151 | 16218
+2025-06-22 16:00 Sandviken vs Træff | 1343349 | 14545 | 7040
+2025-06-22 16:00 Eik-Tønsberg vs Lysekloster | 1343352 | 16211 | 7007
+2025-06-22 16:00 Sotra vs Brattvåg | 1343354 | 7028 | 6970
+
+=== 2. DIVISION - GROUP 2 ===
+2025-06-22 13:00 Follo vs Alta | 1343532 | 6985 | 6965
+2025-06-22 14:30 Asker vs Stjørdals-Blink | 1343534 | 6967 | 7033
+
+=== 1 LYGA ===
+2025-06-22 13:00 Neptūną Klaipėda vs Hegelmann II | 1355380 | 14384 | 23156
+2025-06-22 15:00 TransINVEST Vilnius vs Minija | 1355381 | 18878 | 3864
+2025-06-22 16:00 FA Šiauliai II vs Be1 NFA | 1355378 | 18840 | 16747
+2025-06-22 17:00 Babrungas vs Panevėžys II | 1355379 | 14382 | 13972
+
+=== FKF PREMIER LEAGUE ===
+2025-06-22 14:00 Bandari vs Posta Rangers FC | 1303860 | 2460 | 2459
+2025-06-22 14:00 Nairobi City Stars vs Mathare United | 1303861 | 2482 | 2463
+2025-06-22 14:00 Sofapaka vs Bidco United | 1303862 | 2470 | 2493
+2025-06-22 14:00 Murang'a SEAL vs Talanta | 1303863 | 19486 | 17897
+2025-06-22 14:00 Homeboyz vs Tusker | 1303864 | 2462 | 2475
+2025-06-22 14:00 AFC Leopards vs KCB | 1303865 | 2472 | 2476
+2025-06-22 14:00 GOR Mahia vs Police | 1303866 | 2467 | 8560
+2025-06-22 14:00 Shabana vs Ulinzi Stars | 1303867 | 19489 | 2474
+2025-06-22 14:00 Kariobangi Sharks vs Mara Sugar | 1303868 | 2468 | 19483
+
+=== 3. DIVISION - GIRONE 6 ===
+2025-06-22 14:00 SF Grei vs Stabæk II | 1329734 | 16868 | 16231
+2025-06-22 15:00 Odd II vs Pors Grenland II | 1329736 | 9975 | 25501
+
+=== DIVISION 2 - SÖDRA SVEALAND ===
+2025-06-22 14:00 Rågsved vs Nyköping | 1343908 | 16745 | 6691
+2025-06-22 15:00 Huddinge vs Farsta | 1343905 | 12596 | 20835
+2025-06-22 15:00 Arameiska / Syrianska vs Forward | 1343909 | 11668 | 11666
+
+=== DIVISION 2 - VÄSTRA GÖTALAND ===
+2025-06-22 14:00 Laholm vs Onsala | 1344448 | 12657 | 12606
+
+=== ESILIIGA B ===
+2025-06-22 14:00 Kuressaare II vs Johvi Phoenix | 1355802 | 24235 | 24237
+
+=== ELITESERIEN ===
+2025-06-22 14:30 Valerenga vs Molde | 1342265 | 326 | 329
+2025-06-22 17:00 Ham-Kam vs Tromso | 1342259 | 2159 | 325
+2025-06-22 17:00 KFUM Oslo vs Stromsgodset | 1342260 | 2143 | 324
+2025-06-22 17:00 Kristiansund BK vs Rosenborg | 1342261 | 320 | 331
+2025-06-22 17:00 Sandefjord vs Haugesund | 1342262 | 332 | 328
+2025-06-22 17:00 Sarpsborg 08 FF vs Bryne | 1342263 | 333 | 2142
+2025-06-22 19:15 Viking vs Fredrikstad | 1342264 | 759 | 2149
+
+=== SUPER LEAGUE ===
+2025-06-22 14:30 Ekwendeni Hammers vs Ekhaya | 1365258 | 11126 | 25893
+2025-06-22 14:30 Be Forward Wanderers vs Dedza Dynamos | 1365290 | 4583 | 18747
+2025-06-22 14:30 Songwe Border United vs MAFCO | 1365308 | 25894 | 11127
+2025-06-22 14:30 Creck vs Moyale Barracks | 1365309 | 23427 | 4593
+2025-06-22 14:30 Silver Strikers vs Ekhaya | 1365310 | 4597 | 25893
+2025-06-22 14:30 Nyasa Big Bullets vs Blue Eagles | 1366126 | 4599 | 4584
+2025-06-22 17:00 Pakhtakor vs Kokand-1912 | 1348964 | 4220 | 4212
+2025-06-22 17:00 Shortan vs Surkhon | 1348968 | 4222 | 4225
+
+=== LIGI KUU BARA ===
+2025-06-22 15:00 Mashujaa vs JKT Tanzania | 1286569 | 22176 | 12190
+2025-06-22 15:00 Pamba Jiji vs KMC | 1286570 | 24707 | 8061
+2025-06-22 15:00 Simba vs Kagera Sugar | 1286571 | 6432 | 12191
+2025-06-22 15:00 Namungo vs KenGold | 1286572 | 12197 | 24706
+2025-06-22 15:00 Singida Fountain Gate vs Tanzania Prisons | 1286573 | 24353 | 12202
+2025-06-22 15:00 Young Africans vs Dodoma Jiji | 1286574 | 5370 | 14345
+2025-06-22 15:00 Coastal Union vs Kitayosce | 1286575 | 12189 | 22175
+2025-06-22 15:00 Singida Big Stars vs Azam | 1286576 | 19838 | 8057
+
+=== 3. DIVISION - GIRONE 2 ===
+2025-06-22 15:00 Byåsen vs Ranheim II | 1329010 | 6973 | 16224
+
+=== 3. DIVISION - GIRONE 4 ===
+2025-06-22 15:00 Fyllingsdalen vs Lyn II | 1329371 | 6990 | 25499
+
+=== SUPERETTAN ===
+2025-06-22 15:00 Sandviken vs falkenbergs FF | 1341802 | 6697 | 812
+2025-06-22 15:00 Utsikten vs Ostersunds FK | 1341803 | 6706 | 376
+2025-06-22 15:00 Vasteras SK FK vs IK brage | 1341804 | 2241 | 2175
+2025-06-22 17:00 Oddevold vs Varbergs BoIS FC | 1341805 | 11674 | 2171
+2025-06-22 17:00 Kalmar FF vs Orgryte IS | 1341806 | 374 | 2166
+2025-06-22 17:00 Landskrona BoIS vs Orebro SK | 1341807 | 2176 | 365
+
+=== VIRSLIGA ===
+2025-06-22 15:00 FS Jelgava vs Grobiņa | 1350414 | 18834 | 4138
+2025-06-22 17:00 Riga vs Super Nova | 1350415 | 10124 | 4143
+2025-06-22 19:00 Rīgas FS vs Auda | 1350416 | 4160 | 4135
+
+=== GOIANO - 2 ===
+2025-06-22 15:00 Centro Oeste vs Iporá | 1375955 | 22097 | 7829
+2025-06-22 15:00 Trindade vs Grêmio Anápolis | 1375956 | 23307 | 13127
+2025-06-22 21:00 Rio Verde vs Tupy FC | 1375954 | 24771 | 24773
+2025-06-22 22:00 Anapolina vs Morrinhos | 1375957 | 7820 | 18297
+
+=== LIGUE 1 ===
+2025-06-22 15:00 Saint Eloi Lupopo vs TP Mazembe | 1376203 | 8578 | 6435
+2025-06-22 15:00 Simba vs Vita Club | 1376204 | 8572 | 6437
+2025-06-22 19:00 Casa Sport vs Gorée | 1378892 | 5285 | 5287
+2025-06-22 19:00 HLM vs Jamono Fatick | 1378894 | 25068 | 22577
+2025-06-22 19:00 Guédiawaye vs Teungueth | 1378895 | 5553 | 5296
+2025-06-22 19:00 Sonacos vs Pikine | 1378897 | 5294 | 5293
+2025-06-22 19:00 Wally Daan vs Génération Foot | 1378899 | 25070 | 5288
+
+=== SVENSKA CUPEN ===
+2025-06-22 15:00 Viggbyholms IK vs Gute | 1377367 | 20838 | 6671
+
+=== PREMIER SOCCER LEAGUE ===
+2025-06-22 15:00 CAPS United vs Kwekwe United | 1378683 | 5218 | 25733
+2025-06-22 15:00 Highlanders vs Chicken Inn | 1378684 | 5224 | 5220
+2025-06-22 15:00 Ngezi Platinum vs MWOS | 1378685 | 5229 | 25734
+2025-06-22 15:00 Platinum vs Dynamos | 1378686 | 5230 | 5221
+2025-06-22 15:00 Triangle United vs Green Fuel | 1378687 | 5232 | 21053
+2025-06-22 15:00 Yadah vs Simba Bhora | 1378688 | 5233 | 21055
+
+=== ÚRVALSDEILD ===
+2025-06-22 16:00 FH hafnarfjordur vs Vestri | 1332776 | 270 | 4165
+2025-06-22 21:15 KA Akureyri vs Vikingur Reykjavik | 1332777 | 272 | 278
+2025-06-22 21:15 IA Akranes vs Stjarnan | 1332778 | 827 | 275
+
+=== MEISTARADEILDIN ===
+2025-06-22 16:00 KI Klaksvik vs B36 Torshavn | 1335754 | 701 | 678
+2025-06-22 16:00 07 Vestur vs HB | 1335755 | 4174 | 4133
+2025-06-22 18:15 NSI Runavik vs Vikingur Gota | 1335756 | 682 | 580
+
+=== DAMALLSVENSKAN ===
+2025-06-22 16:00 Alingsås W vs AIK | 1341579 | 16001 | 15629
+2025-06-22 16:00 Djurgården vs Växjö | 1341580 | 11076 | 11084
+2025-06-22 16:00 Norrköping W vs Hammarby | 1341581 | 16008 | 15630
+2025-06-22 16:00 Malmö FF W vs Brommapojkarna W | 1341582 | 21698 | 16004
+
+=== ETTAN - SÖDRA ===
+2025-06-22 16:00 Trollhättan vs Rosengård | 1342907 | 6702 | 6694
+2025-06-22 16:00 IFK Skövde vs Oskarshamns AIK | 1342908 | 16605 | 6692
+
+=== ETTAN - NORRA ===
+2025-06-22 16:00 Team Thoren vs Haninge | 1343146 | 11662 | 6672
+2025-06-22 16:00 IF Karlstad vs AFC Eskilstuna | 1343147 | 11659 | 765
+2025-06-22 16:00 Örebro Syrianska vs gefle IF | 1343148 | 11664 | 813
+2025-06-22 17:00 Assyriska FF vs Sollentuna | 1343149 | 2169 | 6699
+
+=== DIVISION 2 - NORRA GÖTALAND ===
+2025-06-22 16:00 FBK Karlstad vs Ahlafors | 1343732 | 12622 | 12570
+2025-06-22 17:00 Vänersborgs FK vs Motala | 1343731 | 12577 | 11673
+
+=== DIVISION 2 - NORRA SVEALAND ===
+2025-06-22 16:00 Falu BS vs Sunnersta | 1344252 | 22932 | 23659
+2025-06-22 16:00 Korsnäs vs IFK Österåker | 1344254 | 18427 | 12581
+2025-06-22 16:00 Nacka Iliria vs Ytterhogdal | 1344255 | 14510 | 12594
+
+=== TORNEO FEDERAL A ===
+2025-06-22 16:00 Costa Brava vs Estudiantes S.l. | 1356054 | 25757 | 477
+2025-06-22 20:00 Deportivo Rincon vs Germinal de Rawson | 1355978 | 1959 | 3972
+2025-06-22 20:00 Juventud Unida Univ. vs Huracan Las Heras | 1356056 | 3947 | 2428
+2025-06-22 20:00 Defensores de Belgrano VR vs Sportivo Las Parejas | 1356142 | 2426 | 1950
+2025-06-22 20:00 Independiente De Chivilcoy vs Douglas Haig | 1356144 | 1960 | 789
+2025-06-22 20:00 Boca Unidos vs Atletico DE Rafaela | 1356218 | 467 | 465
+2025-06-22 20:15 Olimpo Bahia Blanca vs Santamarina | 1355979 | 443 | 475
+2025-06-22 20:30 Gutiérrez vs Ciudad de Bolívar | 1356055 | 11156 | 16612
+2025-06-22 20:30 San Martín Mendoza vs Argentino Monte Maíz | 1356057 | 21042 | 18764
+2025-06-22 20:30 El Linqueño vs Sportivo Belgrano | 1356141 | 21041 | 1966
+2025-06-22 20:30 Gimnasia Concepción vs Ben Hur | 1356143 | 3945 | 3968
+2025-06-22 20:30 Bartolomé Mitre vs Sarmiento de La Banda | 1356219 | 25756 | 23255
+2025-06-22 21:00 San Martin Formosa vs Sol de América | 1356217 | 1935 | 3982
+2025-06-22 22:00 9 de Julio Rafaela vs Gimnasia Chivilcoy | 1356140 | 21040 | 25758
+
+=== VYSSHAYA LIGA ===
+2025-06-22 16:00 Istiqlol vs Regar-TadAZ | 1358631 | 8012 | 12268
+
+=== PRIMERA DIVISIÓN - APERTURA ===
+2025-06-22 16:00 CA River Plate vs Liverpool Montevideo | 1376028 | 2351 | 2358
+2025-06-22 20:00 Racing Montevideo vs Progreso | 1376034 | 2359 | 2363
+2025-06-22 22:30 Penarol vs Wanderers | 1376029 | 2348 | 2360
+
+=== ELITE ONE ===
+2025-06-22 16:00 Fauve Azur Elite vs Fortuna Mfou | 1381182 | 16526 | 5405
+2025-06-22 16:00 Stade Renard vs Victoria United | 1381183 | 5410 | 20800
+2025-06-22 18:00 Colombe vs PWD | 1381184 | 5400 | 5409
+
+=== 1. DIVISION ===
+2025-06-22 17:00 Sogndal vs Lyn | 1342518 | 758 | 7006
+
+=== SUPER LIGA ===
+2025-06-22 17:00 Saxan vs Sheriff Tiraspol | 1378855 | 4637 | 568
+2025-06-22 19:00 Petrocub vs CSF Bălți | 1378856 | 2271 | 14008
+
+=== 1. DEILD ===
+2025-06-22 18:00 Thor Akureyri vs Selfoss | 1332980 | 2116 | 2115
+2025-06-22 20:15 Keflavik vs IR Reykjavik | 1332981 | 269 | 2122
+
+=== UEFA U21 CHAMPIONSHIP ===
+2025-06-22 18:00 Denmark U21 vs France U21 | 1380382 | 8189 | 8194
+2025-06-22 21:00 Germany U21 vs Italy U21 | 1380381 | 8196 | 8201
+
+=== CANADIAN PREMIER LEAGUE ===
+2025-06-22 19:00 York United vs Atlético Ottawa | 1350735 | 2623 | 10169
+2025-06-22 22:30 Valour vs Forge | 1350736 | 3831 | 3830
+
+=== CARIOCA A2 ===
+2025-06-22 19:45 Cabofriense vs Petrópolis | 1368249 | 10672 | 23262
+
+=== CARIOCA C ===
+2025-06-22 19:45 EC Resende vs Santa Cruz RJ | 1369573 | 23635 | 23640
+2025-06-22 19:45 Búzios vs Angra dos Reis | 1369574 | 25962 | 13105
+2025-06-22 19:45 Uniao Central vs CAAC Brasil | 1369576 | 23642 | 23634
+
+=== CATARINENSE - 2 ===
+2025-06-22 20:00 Nação vs Fluminense-SC | 1372559 | 19637 | 25116
+2025-06-22 20:00 Juventus SC vs Carlos Renaux | 1372561 | 12912 | 19636
+
+=== GAÚCHO - 2 ===
+2025-06-22 20:00 Passo Fundo vs União RS | 1373541 | 10053 | 10056
+2025-06-22 20:00 Aimoré vs Gaúcho | 1373543 | 7767 | 7827
+2025-06-22 20:30 Santa Cruz RS vs Real | 1376282 | 16479 | 10149
+2025-06-22 21:00 Bagé vs Inter Santa Maria | 1373542 | 10044 | 10051
+
+=== CANADIAN SOCCER LEAGUE ===
+2025-06-22 20:00 Serbian White Eagles vs SC Scarborough | 1374683 | 2016 | 2019
+2025-06-22 22:00 Manga Canada vs Unity ON | 1374684 | 26052 | 23628
+
+=== PRIMERA DIVISIÓN RFEF - PLAY OFFS ===
+2025-06-22 20:00 Real Sociedad II vs Gimnastic | 1378901 | 9585 | 714
+
+=== DIVISION INTERMEDIA ===
+2025-06-22 20:00 Tacuary vs Pastoreo | 1378912 | 10491 | 18311
+2025-06-22 23:30 Guairena FC vs Club River Plate | 1378913 | 2138 | 1184
+
+=== PRIMERA B METROPOLITANA ===
+2025-06-22 20:30 Deportivo Merlo vs San Martín Burzaco | 1333715 | 8383 | 8387
+
+=== PRIMERA C ===
+2025-06-22 20:30 JJ Urquiza vs Puerto Nuevo | 1362302 | 8378 | 8397
+2025-06-22 20:30 Deportivo Muñiz vs Lugano | 1362303 | 8393 | 8396
+2025-06-22 20:30 Claypole vs Berazategui | 1362304 | 8391 | 8382
+
+=== PARAENSE B1 ===
+2025-06-22 20:30 Tapajós vs Izabelense | 1376955 | 13126 | 25000
+2025-06-22 21:00 Paragominas vs Pinheirense | 1376956 | 12287 | 25001
+
+=== PARANAENSE - 2 ===
+2025-06-22 20:30 Foz Do Iguacu vs Batel | 1378800 | 2212 | 12940
+2025-06-22 20:30 Paranavaí vs Laranja Mecânica | 1378801 | 23308 | 18746
+2025-06-22 23:30 Aruko Sports vs Toledo | 1378799 | 18745 | 9994
+
+=== AMAZONENSE - 2 ===
+2025-06-22 21:30 RB do Norte vs Peñarol | 1372027 | 24793 | 10865
+2025-06-22 21:30 Taruma vs Manicoré | 1372028 | 24794 | 10868
+
+=== NORTHERN SUPER LEAGUE ===
+2025-06-22 22:00 Vancouver Rise vs Montreal Roses | 1366176 | 25901 | 25899
+
